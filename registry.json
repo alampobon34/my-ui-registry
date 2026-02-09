@@ -1,0 +1,10 @@
+{
+  "button": {
+    "dependencies": ["@radix-ui/react-slot"],
+    "files": ["src/ui/button.tsx"]
+  },
+  "input": {
+    "dependencies": [],
+    "files": ["src/ui/input.tsx"]
+  }
+}
