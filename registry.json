@@ -1,4 +1,10 @@
 {
+  "dependencies": [
+    "clsx",
+    "tailwind-merge",
+    "class-variance-authority",
+    "next-themes"
+  ],
   "button": {
     "dependencies": ["@radix-ui/react-slot"],
     "files": ["src/ui/button.tsx"]
